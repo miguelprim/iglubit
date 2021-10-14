@@ -1,10 +1,12 @@
 ---
 # banner
 banner:
+  enable: true
   title: "We build and scale profitable software apps for Investors"
-  button: "Change is gonna come"
+  button: "Business change is gonna come"
   button_link: "https://gethugothemes.com/products/andromeda/"
-  image: "images/banner-app.png"
+  image: "images/banner-iglubit.png"
+  bg_overlay: true
 
 
 # brands
@@ -73,7 +75,7 @@ how_it_works:
   - subtitle: "Software surroundings development"
     title: "Achieve your solution in mind with us as a Box to plug in for your IT development"
     description: "The right implementation of the suitable software technology, programming language and clouds structure...make the scability of your business higher as no other operation can do"
-    image: "images/features-02.png"
+    image: "images/play.png"
 
   - subtitle: "Business Scale"
     title: "Grow your Business to the max with our Business Intelligence as a Service"
@@ -91,35 +93,29 @@ testimonials:
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   
+
+
+  
   testimonials_quotes:
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Iglubit helped me efficiently to reach my app done, avoiding mistakes during the research process and keeping in mind the right tech for the usability target"
+    name: "Gilberto Reyes"
+    designation: "CEO, ITReyes"
     image: "images/user-img/05-i.jpg"
 
-  - quote: "Conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Very satisfying how they manage to focus on the really important steps to bring and develop my website done through a very fast framework"
+    name: "Julia Vogler"
+    designation: "CEO, Posturacura"
     image: "images/user-img/06-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
+  - quote: "Iglubit also helped me by saving budget, where my team could spare workload and budget, even before the app to be built"
+    name: "Pilar Calvo"
+    designation: "Creative Director, Trianaessence"
     image: "images/user-img/07-i.jpg"
 
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
+  - quote: "Good communication, transparency - Very good support by identifying possible app deployment issues and UX low performances"
+    name: " Cameron"
     designation: "CEO, Nexuspay"
     image: "images/user-img/08-i.jpg"
 
-  - quote: "Lorem ipsum dolor ame conseetur. Ornare quam porta arcu congue felis volutpat. Vitae lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/09-i.jpg"
-
-  - quote: "Lorem ipsum dolor amet, conseetur adipiscing elit. Ornare quam porta arcu congue lectudbfs pellentesque vitae dolor faucibus"
-    name: "David Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/10-i.jpg"
 
 ---

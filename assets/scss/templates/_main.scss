@@ -2,6 +2,9 @@
 .banner {
   position: relative;
   overflow: hidden;
+  padding: 0px 30px 40px 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
 
   .block {
     padding: 80px 180px 40px;
@@ -19,6 +22,8 @@
   .banner-image {
     position: relative;
     z-index: 3;
+    
+    
   }
 
   .has-circle {

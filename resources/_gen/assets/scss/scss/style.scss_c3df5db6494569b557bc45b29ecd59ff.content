@@ -268,7 +268,7 @@ body {
   position: relative;
   top: 10px; }
   .badge.badge-changed {
-    background-color: #3A9CFF; }
+    background-color: #34eae1; }
   .badge.badge-added {
     background-color: #34eae1; }
   .badge.badge-removed {
@@ -665,7 +665,10 @@ header {
       padding: 5px 20px !important; } }
 .banner {
   position: relative;
-  overflow: hidden; }
+  overflow: hidden;
+  padding: 0px 30px 40px 0px;
+  background-repeat: no-repeat;
+  background-size: cover; }
   .banner .block {
     padding: 80px 180px 40px; }
     @media (max-width: 1466px) {
