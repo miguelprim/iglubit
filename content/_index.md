@@ -81,8 +81,9 @@ how_it_works:
     title: "Grow your Business to the max with our Business Intelligence as a Service"
     description: "We can deliver Instant-Working-Experts for your team in order to identify clashes in the business intelligence used so far and avoid then the stock of your IT standards limitations due for instance to constant company growth"
     image: "images/piramide.png"
-    
 
+
+    
 
 # testimonials
 testimonials:   
@@ -93,6 +94,7 @@ testimonials:
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   
+
 
 
   

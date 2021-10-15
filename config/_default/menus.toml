@@ -5,6 +5,11 @@ url = "about/"
 weight = 1
 
 [[main]]
+name = "Our Process"
+url = "process/"
+weight = 2
+
+[[main]]
 name = "Blog"
 url = "blog/"
 weight = 3
