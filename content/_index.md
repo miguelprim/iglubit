@@ -10,7 +10,7 @@ banner:
 
 
 # brands
-brands_carousel:
+#brands_carousel:
   enable: true
   brand_images:
   - "images/brands/01-colored.png"
@@ -97,25 +97,33 @@ testimonials:
 
   
   testimonials_quotes:
-  - quote: "Iglubit helped me efficiently to reach my app done, avoiding mistakes during the research process and keeping in mind the right tech for the usability target"
-    name: "Gilberto Reyes"
-    designation: "CEO, ITReyes"
-    image: "images/user-img/05-i.jpg"
-
-  - quote: "Very satisfying how they manage to focus on the really important steps to bring and develop my website done through a very fast framework"
-    name: "Julia Vogler"
-    designation: "CEO, Posturacura"
-    image: "images/user-img/06-i.jpg"
-
-  - quote: "Iglubit also helped me by saving budget, where my team could spare workload and budget, even before the app to be built"
-    name: "Pilar Calvo"
-    designation: "Creative Director, Trianaessence"
-    image: "images/user-img/07-i.jpg"
 
   - quote: "Good communication, transparency - Very good support by identifying possible app deployment issues and UX low performances"
-    name: " Cameron"
-    designation: "CEO, Nexuspay"
-    image: "images/user-img/08-i.jpg"
+    name: "Mustafa"
+    designation: "CEO, M Abogados, Sevilla"
+    image: "images/user-img/mabogados.jpg"
+
+  - quote: "Iglubit helped me efficiently to reach my app done, avoiding mistakes during the research process and keeping in mind the right tech for the usability target"
+    name: "Frank"
+    designation: "CEO, Voccus, Stuttgart"
+    image: "images/user-img/voccus.jpg"
+
+  - quote: "Very satisfying how they manage to focus on the really important steps to bring and develop my website done through a very fast framework"
+    name: "Julia"
+    designation: "CEO, Posturacura, Hamburg"
+    image: "images/user-img/posturacura.jpg"
+
+  - quote: "Iglubit process were from the beginning clearly described, clarifying the steps and what must be reviewed for the right monitoring of an ecommerce app"
+    name: "Pilar"
+    designation: "Designer, Triana Essence, Sevilla"
+    image: "images/user-img/triana.jpg"
+
+  - quote: "Iglubit also helped me by saving budget, where my team could spare workload and budget, even before the app to be built"
+    name: "Daniel"
+    designation: "CEO, Amzscale, Collogne"
+    image: "images/user-img/amzscale.jpg"
+
+
 
 
 ---
