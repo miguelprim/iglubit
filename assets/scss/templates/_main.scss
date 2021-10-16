@@ -409,8 +409,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 80px;
-    transition: .3s ease;
+    min-height: 100px;
+    transition: .2s ease;
     filter: grayscale(1);
     margin: 0 20px;
     opacity: .5;
@@ -421,7 +421,7 @@
     }
 
     img {
-      max-width: 100%;
+      max-width: 50%;
     }
   }
 }

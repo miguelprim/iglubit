@@ -16,17 +16,23 @@ weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Terms"
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Blog Details"
-  url = "blog/post-1/"
-  weight = 1
+  #parent = "Terms"
+  #name = "Blog Details"
+  #url = "blog/post-1/"
+  #weight = 1
 
   [[main]]
-  parent = "Pages"
+  parent = "Terms"
+  name = "Imprint"
+  url = "imprint/"
+  weight = 1
+ 
+  [[main]]
+  parent = "Terms"
   name = "Terms & Conditions"
   url = "terms-and-conditions/"
   weight = 7
@@ -39,14 +45,24 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "Blog"
+#name = "Blog"
 url = "blog/"
 weight = 2
 
 [[footer]]
-name = "Blog Details"
+#name = "Blog Details"
 url = "blog/post-1/"
 weight = 3
+
+[[footer]]
+name = "Our process"
+url = "process/"
+weight = 4
+
+[[footer]]
+name = "Imprint"
+url = "imprint/"
+weight = 4
 
 [[footer]]
 name = "Terms & Conditions"
