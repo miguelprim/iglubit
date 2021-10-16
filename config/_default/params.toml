@@ -4,7 +4,7 @@ favicon = "images/favicon.png"
 # logo
 logo = "images/logo.svg"
 # use `x` with logo_width, example: "100x"
-logo_width = "240x"
+logo_width = "400x"
 # logo text will only show when logo is missing.
 logo_text = "Andromeda"
 # OpenGraph / Twitter Card metadata
@@ -50,7 +50,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Contact"
-link = "https://gethugothemes.com/products/andromeda/"
+link = "/contact/"
 
 # cookies
 [cookies]

@@ -10,8 +10,8 @@ url = "process/"
 weight = 2
 
 [[main]]
-name = "Blog"
-url = "blog/"
+#name = "Blog"
+#url = "blog/"
 weight = 3
 
 [[main]]
@@ -31,11 +31,6 @@ hasChildren = true
   url = "terms-and-conditions/"
   weight = 7
   
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 5
-
 
 # footer menu
 [[footer]]

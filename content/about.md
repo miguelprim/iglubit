@@ -11,7 +11,7 @@ who_we_are:
   title: "Let Us increase your Digital Business"
   description: "As a key globally active software service provider, we as software engineering platform advise and assist you in all aspects of app and software development. We provide tailor-made technologies for high-tech Know-how, agile, flexible and secure IT"
 
-  image: "images/about/01.jpg"
+  image: "images/about/1.png"
 
 # what_we_do
 what_we_do:
@@ -42,12 +42,14 @@ our_mission:
   title: "Main Vision And Mission Of Iglubit"
   description: "We were freelance designers and developers, constantly finding ourselves - we realised our passion in software development and technology deployment, therefore we realised how happy we feel when we offer our vision to investors and together create a synergie, optimising your digital product for your and reaching more and more customers"
 
-  image: "images/about/02.jpg"
+  image: "images/about/2.png"
+
+  
 
 # about_video
 about_video:
-  enable: true
-  subtitle: "A Short Video"
+  enable: false
+  subtitle: "We care about your business"
   title: "We care about how to transform your idea into tech reality"
   description: "Protect your design vision and leave nothing for tomorrow. Share your product terms, scope, expectations and user targets, and we as team members will do care about how to transform the idea into tech reality. Let us organise the app development for you"
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"

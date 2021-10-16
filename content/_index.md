@@ -4,7 +4,7 @@ banner:
   enable: true
   title: "We build and scale profitable software apps for Investors"
   button: "Business change is gonna come"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  button_link: "contact/"
   image: "images/banner-iglubit.png"
   bg_overlay: true
 
@@ -33,7 +33,7 @@ features:
   title: "Start your software project<br> with us"
   description: "We take over the entire process from modelling your right software app. Let us do the heavy lifting"
   features_blocks:
-  - icon: "las la-lock"
+  - icon: "las la-adn"
     title: "Updated Security"
     content: "Bringing your business at the safest level assuring the confidence of your data"
   - icon: "las la-magnet"
@@ -53,12 +53,16 @@ features:
     content: "There is always an application improvement possible after achieving the result expected"
 
 
+
+
+
+
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: ""
   title: "Our Done4You software and cloud system Building"
-  description: "More than 20 people working for your software building success. Counting on the needed infrastructure for solving efficiently the demand on technology research, building protype, application reviews, tests, release kick off and future monitoring"
+  description: "More than 20 people working for your software success. Counting on the needed infrastructure for solving efficiently the demand on technology research, building protype, application reviews, tests, release kick off and future monitoring"
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
 
@@ -83,14 +87,15 @@ how_it_works:
     image: "images/piramide.png"
 
 
-    
+
+
 
 # testimonials
 testimonials:   
-  enable: true
-  subtitle: "Our Testimonials"
-  title: "Grow your Business to the max with our Business Intelligence as a Service"
-  description: "We can deliver Instant-Working-Experts for your team in order to identify clashes in the business intelligence used so far and avoid then the stock of your IT standards limitations due for instance to constant company growth"
+  enable: false
+  subtitle: "Our Target"
+  title: "We help investors and companies to bring their digital product to the next level"
+  description: "Tell us what is your need, which kind of app do you want in principle, and what exactly your software must do. We will look the precise technology, the right skills and the minimum budget for that"
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   
@@ -129,3 +134,6 @@ testimonials:
 
 
 ---
+
+
+

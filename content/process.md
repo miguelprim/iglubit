@@ -1,25 +1,44 @@
 ---
-date: "2021-07-14"
-title: "The Real Product From the Buyers improvements in Overflow basis."
-image: "images/process/process.png"
-author_info: 
-  name: "Abdullah Al Shifat"
-  image: "images/process/process.png"
+title: "Process"
+layout: "process"
 draft: false
+
+
+# features
+features:
+  enable: true
+  subtitle: "Our Process"
+  title: "Our process to start your software<br> with us"
+  description: "How it works from first call up to achiving results"
+  features_blocks:
+  - icon: "las la-phone-volume"
+    title: "Call"
+    content: "Tell us all you want regarding project details, expectations, software goal. We will get the info and give you a first basic feeling about how we proceed"
+  - icon: "las la-project-diagram"
+    title: "Scenario"
+    content: "We analyse the scenario compiling requirements, difficulties and possible and realistic short and long term goals for your software development"
+  - icon: "las la-comments"
+    title: "Feedback"
+    content: "We advise you with a first estimation of required work load, effort and budget for achieving the first target"
+  - icon: "las la-user-clock"
+    title: "Allocation"
+    content: "Searching for the assignment of an IGLUBIT employee to your tech project according to skills and hours required. For larger projects, we also look for the right person who is able to deploy and control the precise programming language to develop your app"
+  - icon: "las la-user-check"
+    title: "Skills"
+    content: "Presentation of the preselected employee mapping, who according to his experience and tech skills, match with your expectations"
+  - icon: "las la-money-check"
+    title: "Order"
+    content: "If everything so far it has been positive, then we go for the definition of the start date and the Purchase Order. You only pay from when the employee start supporting you actively"
+  - icon: "las la-wrench"
+    title: "Landing"
+    content: "IGLUBIT start supporting your software, app, website or cloud server, assist you on technical difficulties and reduce your work load, avoiding long investment effort"    
+  - icon: "las la-balance-scale"
+    title: "Reviews"
+    content: "IGLUBIT performs project reviews so that every discrepancy, gaps and difficulties between project and back office, can be scalated and mitigated. We help you as Full-Service Platform" 
+  - icon: "las la-tasks"
+    title: "Adaptation to Change"
+    content: "IGLUBIT support you by the deviation of needs in case of project changes technically and financially in order to assure your targets and retargets. Tech changes along the time and may appear some new wishes in between to be implemented"       
+
+
+
 ---
-
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent
-
-Pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet Faucibus consectetur tempus adipiscing vitae. Nec blandit tincidunt nibh nisi, quam volutpat. In lacus laoreet diam risus. Mauris, risus faucibus sagittis sagittis tincidunt id justo. Diam massa pretium consequat mauris viverra. Sagittis eu libero
-
->Facing a challenge in life is kind of a turn-on for an easy rider. When life gives you lemons, use them in your designs
->
-> <cite>!Alexender Smith</cite>
-
-Consectetur adipiscing elit. Nec et ipsum ullamcorper venenatis fringilla. Pretium, purus eu nec vulputate vel habitant egestas. Congue ornare at ipsum, viverra. Vitae magna faucibus eros, lectus sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit in ornare turpis posuere. Eu quisque integer non rhoncus elementum vel. Quis nec viverra lectus augue nec praesent volutpat tortor. Ipsum eget sed tempus luctus nisl. Ut etiam molestie mattis at faucibus mi at pellentesque. Pellentesque morbi nunc, curabitur arcu euismod suscipit. Duis mi sapien, donec non dictum
-
-Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis cursus id.
-
-Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget pharetra odio amet pellentesque. Egestas nisi adipiscing sed in lectus. Vitae ultrices malesuada aliquet dignissim. Faucibus non tristique eu.

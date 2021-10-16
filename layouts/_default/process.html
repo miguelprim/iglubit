@@ -1,0 +1,83 @@
+{{define "main"}}
+
+
+{{with .Params.features}}
+{{if .enable}}
+<section class="section features overflow-hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-up">
+        <div class="section-title text-center">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+    </div>
+
+    {{with .features_blocks}}
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-left" data-aos-delay="200">
+        <div class="features-carousel swiper-container">
+          <div class="swiper-wrapper align-items-center">
+            {{range .}}
+            <div class="swiper-slide">
+              <div class="features-card">
+                <div class="icon text-primary">
+                  <i class="{{.icon}}"></i>
+                </div>
+                <h3 class="title">{{.title | markdownify}}</h3>
+                <p class="mb-0">{{.content | markdownify}}</p>
+              </div>
+            </div>
+            {{end}}
+          </div>
+
+          <div class="swiper-pagination"></div>
+        </div>
+      </div>
+    </div>
+    {{end}}
+  </div>
+</section>
+{{end}}
+{{end}}
+
+
+{{with .Params.how_it_works}}
+{{if .enable}}
+<section class="section-sm">
+  <div class="container">
+    {{ $.Scratch.Set "counter" 0 }}
+    {{range .block}}
+    {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+    {{$n := $.Scratch.Get "counter"}}
+    <div class="row justify-content-center align-items-center mb-4">
+      <div class="col-lg-5 {{if (modBool $n 2)}} order-md-1 {{end}}" data-aos="fade-up">
+        <div class="section-title mb-0">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title text-break">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+        </div>
+      </div>
+      <div class="col-lg-6 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
+        <div class="pl-0 pl-lg-3">
+          {{ if fileExists (add `assets/` .image) }}
+          {{$img:= resources.Get .image }}
+          {{$img:= $img.Resize "500x"}}
+          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          {{end}}
+        </div>
+      </div>
+    </div>
+    {{end}}
+  </div>
+</section>
+{{end}}
+{{end}}
+
+
+{{end}}
+
+
+
