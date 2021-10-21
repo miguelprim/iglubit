@@ -13,13 +13,11 @@ This privacy policy explains how we handle your personal data when we introduce 
 
 This data protection guideline describes how we collect, use and process your personal data and how we comply with our legal obligations towards you. The protection of your data is important to us and we have made it our business to protect and uphold your data protection rights.
 
-This privacy policy applies to the personal data of visitors to our website, temporary workers, potential candidates, candidates, customers, suppliers and other people with whom we will contact to find out more about our candidates or who have provided them as emergency contacts. It also applies to the emergency contacts of our employees and our alumni. For clarification: If you are an IGLUBIT employee, please note the IGLUBIT employee data protection guidelines, which you can find on the IGLUBIT intranet.
+This privacy policy applies to the personal data of visitors to our website, temporary workers, potential candidates, candidates, customers, suppliers and other people with whom we will contact to find out more about our candidates or who have provided them as emergency contacts. For clarification: If you are an IGLUBIT employee, please note the IGLUBIT employee data protection guidelines, which you can find on the IGLUBIT intranet.
 
 For the purpose of the applicable data protection laws (including the General Data Protection Regulation ( (EU) 2016/679) (die „DSGVO“)you can find the company that is responsible for your personal data ("IGLUBIT" or "us") here.
 
 Important: This privacy policy may be changed from time to time. Please use this page to find out more, as we will post any changes here.
-
-If you do not agree to any aspect of our data protection guideline, you may be entitled to legal claims, which are also described here at the relevant point.
 
 This data protection guideline applies in the corresponding countries within our international network. Different countries may have slightly different approaches to data protection, which is why this data protection guideline contains country-specific parts. You can find country-specific terms for your legal system here. In this way, we can ensure that we comply with all applicable data protection regulations regardless of your whereabouts.
 
