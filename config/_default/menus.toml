@@ -30,6 +30,12 @@ hasChildren = true
   name = "Imprint"
   url = "imprint/"
   weight = 1
+
+ [[main]]
+  parent = "Terms"
+  name = "Privacy Policy"
+  url = "privacy/"
+  weight = 1
  
   [[main]]
   parent = "Terms"
@@ -62,9 +68,14 @@ weight = 4
 [[footer]]
 name = "Imprint"
 url = "imprint/"
-weight = 4
+weight = 5
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy/"
+weight = 5
 
 [[footer]]
 name = "Terms & Conditions"
 url = "terms-and-conditions/"
-weight = 4
+weight = 7

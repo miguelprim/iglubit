@@ -8,7 +8,7 @@ description: "Imprint"
 ---
 
 ### Iglubit GbR
-### Willebrandstr. 35
+### Willebrandstraße
 ### 22767 Hamburg
 
 * Tel.: +49 1575 496 0008
