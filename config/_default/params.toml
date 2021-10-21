@@ -32,7 +32,7 @@ mainSections= ["blog"]
 
 # contact information
 [contact_info]
-address = "Willebrandstraße 35, 22767, HAMBURG, GERMANY"
+address = "Willebrandstraße, 22767, HAMBURG, GERMANY"
 phone = ["+49 1575 496 0008", "", ""]
 email = ["info@iglubit.com", "", ""]
 
