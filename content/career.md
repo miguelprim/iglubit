@@ -9,7 +9,7 @@ features:
   enable: true
   subtitle: "Career"
   title: "Enjoy your career developing cool apps"
-  description: "Through your passion in tech and development, you can help us to bring nice ideas, into the real world"
+  description: "Through your passion in tech and software development, you can help us to bring nice ideas, into the real world."
 
 ########### funfacts ##########
 funfacts:
@@ -41,43 +41,33 @@ career:
   - name : "Android Developer"
     location : "Remote"
     form_action : "#"
-    about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
+    about : "You will work on creative developments of new product ideas - and applications in compliance with global manufacturing guidelines in consultation with individual departmental requirements. You continuously work on identifying new market opportunities and protecting market opportunities within the intellectual property framework. Your responsibilities will include developing software and system specifications as well as improving hardware and software development processes"
+
     experiences:
     - "3+ years Development	experience in a startup environment"
     - "Strong knowledge of iOS, Android & Web Platforms"
     - "Dynamic presentation and communication skills"
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
+    - Very good knowledge of C/C++ or C# or Java
+    - "Excellent knowledge of multithreaded programming and application-level Internet protocols: HTTP, FTP, TELNET, SMTP, SSH"
+
+
     
   - name : "DevOps Engineer"
     location : "Remote"
     form_action : "#"
-    about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
+    about : "As part of our IT DevOps team in the area of contract lifecycle, you are involved in shaping agile software development and hold an important position in our team.
+The maintenance and further development of the systems are a daily routine for you.
+In addition to technical quality, you also pay attention to compliance and security.
+In the team, you are the knowledge anchor for all architecture issues.
+You coordinate internal process partners and manage external development teams within the framework of IT implementation.
+"
     experiences:
     - "3+ years Development	experience in a startup environment"
     - "Strong knowledge of iOS, Android & Web Platforms"
-    - "Dynamic presentation and communication skills"
+    - "Professional experience in IT project management and software engineering or good knowledge in the area of maintenance responsibility.
+Sound knowledge of modern IT architectures, operating systems and middleware (e.g. Apache, Payara, Linux), as well as knowledge of private/public cloud, Java, Oracle, mySQL and HTML5 technologies."
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
 
-
-  - name : "Operations Manager"
-    location : "Remote"
-    form_action : "#"
-    about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
-    experiences:
-    - "3+ years Development	experience in a startup environment"
-    - "Strong knowledge of iOS, Android & Web Platforms"
-    - "Dynamic presentation and communication skills"
-    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
-
-
-  - name : "International Compliance Officer"
-    location : "Remote"
-    form_action : "#"
-    about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
-    experiences:
-    - "3+ years Development	experience in a startup environment"
-    - "Strong knowledge of iOS, Android & Web Platforms"
-    - "Dynamic presentation and communication skills"
-    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
 
 ---
