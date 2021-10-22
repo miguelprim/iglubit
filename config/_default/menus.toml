@@ -9,10 +9,16 @@ name = "Our Process"
 url = "process/"
 weight = 2
 
+
 [[main]]
 #name = "Blog"
 #url = "blog/"
 weight = 3
+
+[[main]]
+name = "Career"
+url = "career/"
+weight = 6
 
 [[main]]
 weight = 4
