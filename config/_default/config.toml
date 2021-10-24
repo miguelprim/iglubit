@@ -20,7 +20,7 @@ min = "0.83.1"
 
 ############################# Outputs ##############################
 [outputs]
-home = ["HTML", "RSS", "WebAppManifest"]
+home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 
 [imaging]
 quality = 90
@@ -50,3 +50,4 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
