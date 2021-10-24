@@ -21,7 +21,7 @@ min = "0.83.1"
 ############################# Outputs ##############################
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]
-
+page = ["HTML"]
 
 
 
