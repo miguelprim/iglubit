@@ -21,6 +21,11 @@ url = "career/"
 weight = 6
 
 [[main]]
+name = "Search"
+url = "search"
+weight = 7
+
+[[main]]
 weight = 4
 name = "Terms"
 hasChildren = true
