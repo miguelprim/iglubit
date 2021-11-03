@@ -20,9 +20,7 @@ brands_carousel:
   - "images/brands/juliart.png"
   - "images/brands/amzscale.png"
   - "images/brands/itreyes.png"
-  - "images/brands/alg.png"
-  - "images/brands/proficom.png"
-
+  - "images/brands/postura.png"
 
 # features
 features:
