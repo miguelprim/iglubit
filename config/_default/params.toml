@@ -69,7 +69,4 @@ button_link = "mailto:info@iglubit.com"
 
 ############################# social site ########################
 
-[[social]]
-title = "IGLUBITIn"
-icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
+
