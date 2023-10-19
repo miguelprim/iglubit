@@ -26,7 +26,7 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Colocación"
-  title: "Empieza a trabajar en Alemania "
+  title: "Empieza a trabajar en Alemania"
   description: "Nuestra experiencia en el mercado de trabajo alemán nos permite poder buscarle un proyecto adecuado a su interés y experiencia, así de poder brindarle un asesoramiento para la consecución efectiva del mismo"
   features_blocks:
   - icon: "las la-shield-alt"
