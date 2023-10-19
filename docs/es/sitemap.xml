@@ -15,12 +15,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -34,12 +34,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -53,12 +53,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"

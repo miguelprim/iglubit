@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/impressum/</loc>
+    <loc>/de/impressum/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/datenschutz/</loc>
+    <loc>/de/datenschutz/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/agb/</loc>
+    <loc>/de/agb/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -25,16 +25,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/"
+                href="/de/"
                 />
   </url><url>
-    <loc>/karriere/</loc>
+    <loc>/de/karriere/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,16 +44,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/categories/"
+                href="/de/categories/"
                 />
   </url><url>
-    <loc>/kontakt/</loc>
+    <loc>/de/kontakt/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,7 +63,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/tags/"
+                href="/de/tags/"
                 />
   </url>
 </urlset>
