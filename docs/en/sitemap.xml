@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/imprint/</loc>
+    <loc>/en/imprint/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/privacy/</loc>
+    <loc>/en/privacy/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/terms-and-conditions/</loc>
+    <loc>/en/terms-and-conditions/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -25,16 +25,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/en/"
                 />
   </url><url>
-    <loc>/career/</loc>
+    <loc>/en/career/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,16 +44,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>/contact/</loc>
+    <loc>/en/contact/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,7 +63,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/en/tags/"
                 />
   </url>
 </urlset>

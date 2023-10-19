@@ -1,7 +1,7 @@
 {
-  "name": "IGLUBIT - Your Software Partner",
-  "short_name": "IGLUBIT - Your Software Partner",
-  "lang": "de",
+  "name": "IGLUBIT - Spanish Candidates for Germany",
+  "short_name": "IGLUBIT - Spanish Candidates for Germany",
+  "lang": "en",
   "theme_color": "#34eae1",
   
 
@@ -48,5 +48,5 @@
   ],
   
   "display": "standalone",
-  "start_url": "/de?utm_source=web_app_manifest"
+  "start_url": "/en?utm_source=web_app_manifest"
 }

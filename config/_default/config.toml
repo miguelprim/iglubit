@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 url = "https://iglubit.com"
 languageCode = "en"
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 baseURL = "/"
-title = "IGLUBIT - Your Software Partner"
+title = "IGLUBIT - Spanish Candidates for Germany"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"
