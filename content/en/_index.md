@@ -4,7 +4,7 @@ banner:
   enable: true
   title: "We find you a project in Germany"
   button: "Start"
-  button_link: "contact/"
+  button_link: "en/contact/"
   image: "images/banner-iglubit.png"
   bg_overlay: true
 

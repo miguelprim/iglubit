@@ -4,7 +4,7 @@ banner:
   enable: true
   title: "Wir vermittlen spanischen Kandidaten"
   button: "Starten"
-  button_link: "de/kontakt/"
+  button_link: "kontakt/"
   image: "images/banner-iglubit_DE.png"
   bg_overlay: true
 

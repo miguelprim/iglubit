@@ -50,7 +50,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Contact"
-link = "/contact/"
+link = "en/contact/"
 
 # cookies
 [cookies]

@@ -27,14 +27,14 @@ weight = 6
 
 [[main]]
 name = "Lenguages"
-url = "/"
+url = "en/"
 weight = 7
 hasChildren = true
 
 [[main]]
   parent = "Lenguages"
   name = "Deutsch"
-  url = "de/"
+  url = "https://iglubit.com/"
   weight = 1
 [[main]]
   parent = "Lenguages"

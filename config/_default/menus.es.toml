@@ -63,12 +63,12 @@ hasChildren = true
 [[main]]
   parent = "Idiomas"
   name = "English"
-  url = "https://iglubit.com/"
+  url = "https://iglubit.com/en/"
   weight = 2
 [[main]]
   parent = "Idiomas"
   name = "Alemán"
-  url = "https://iglubit.com/de/"
+  url = "https://iglubit.com/"
   weight = 1
 
 
