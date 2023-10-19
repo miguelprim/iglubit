@@ -25,9 +25,9 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Start your software project<br> with us"
-  description: "We take over the entire process from modelling your right software app. Let us do the heavy lifting"
+  subtitle: "Colocación"
+  title: "Empieza a trabajar en Alemania "
+  description: "Nuestra experiencia en el mercado de trabajo alemán nos permite poder buscarle un proyecto adecuado a su interés y experiencia, así de poder brindarle un asesoramiento para la consecución efectiva del mismo"
   features_blocks:
   - icon: "las la-shield-alt"
     title: "Curriculum"

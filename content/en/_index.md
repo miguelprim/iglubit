@@ -25,9 +25,9 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Start your software project<br> with us"
-  description: "We take over the entire process from modelling your right software app. Let us do the heavy lifting"
+  subtitle: "Hunting"
+  title: "We look for the proper candidate from Spain for your project"
+  description: "We take over the Screening and the communication. We identify the correct cualification and profile for your project team"
   features_blocks:
   - icon: "las la-shield-alt"
     title: "CV"

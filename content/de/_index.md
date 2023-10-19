@@ -27,7 +27,7 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Vermittlung"
-  title: "Wir suchen den perfekte Kandidat aus Spanien für Ihre Prjektteam"
+  title: "Wir suchen den perfekte Kandidat aus Spanien für Ihre Projektteam"
   description: "Wir übernehmen die Screening und Kommunikation. Wir identifizieren die richtige Qualifikation und Charisma des Kandidaten für Ihre Projektteam"
   features_blocks:
   - icon: "las la-shield-alt"
