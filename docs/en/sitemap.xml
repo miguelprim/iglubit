@@ -28,8 +28,6 @@
                 href="/"
                 />
   </url><url>
-    <loc>/about/</loc>
-  </url><url>
     <loc>/career/</loc>
   </url><url>
     <loc>/categories/</loc>
@@ -50,8 +48,6 @@
                 />
   </url><url>
     <loc>/contact/</loc>
-  </url><url>
-    <loc>/process/</loc>
   </url><url>
     <loc>/tags/</loc>
     <xhtml:link
