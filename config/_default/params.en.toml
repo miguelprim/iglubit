@@ -1,0 +1,73 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.svg"
+# use `x` with logo_width, example: "100x"
+logo_width = "380x"
+# logo text will only show when logo is missing.
+logo_text = "Andromeda"
+# OpenGraph / Twitter Card metadata
+description = "This is meta description"
+author = "Themefisher"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+
+# footer information
+footer_info = ""
+
+# contact form action
+contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+
+# copyright
+copyright = "IGLUBIT © 2023. Partner of Voccus GmbH"
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= "" 
+
+# buy premium popup
+buy_premium_popup = true
+
+# Main Sections
+mainSections= ["blog"]
+
+# contact information
+[contact_info]
+address = "Willebrandstraße, 22767, HAMBURG, GERMANY"
+phone = ["+49 1575 496 0008", "", ""]
+email = ["info@iglubit.com", "", ""]
+
+# imaging processing
+[imaging]
+# Default JPEG or WebP quality setting. Default is 100.
+quality = 100
+
+# Preloader
+[preloader]
+enable = true
+preloader = "images/favicon.png" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = true
+label = "Contact"
+link = "/contact/"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+# call-to-action
+[cta]
+enable = true
+title = "Get contact with IGLUBIT Now"
+content = "Tell us a short description of the project"
+button = "info@iglubit.com"
+button_link = "mailto:info@iglubit.com"
+
+############################# social site ########################
+
+
+

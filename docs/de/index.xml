@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IGLUBIT - Your Software Partner</title>
+    <link>/de/</link>
+    <description>Recent content on IGLUBIT - Your Software Partner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imprint</title>
+      <link>/de/impressum/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/de/impressum/</guid>
+      <description>Iglubit Partner of Voccus GmbH  Willebrandstrasse, 22767, Hamburg, Germany Las Cabezas de San Juan, 41701, Dos Hermanas, Sevilla, Spain Tel.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/de/datenschutz/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/de/datenschutz/</guid>
+      <description>PRIVACY POLICY This privacy policy explains how we handle your personal data when we introduce ourselves to you, help you find a job, maintain a relationship with you after we have found a job for you, provide a service for you or you provide a service for us, use your data to ask for support in connection with one of our candidates or when you visit our website.</description>
+    </item>
+    
+    <item>
+      <title>Terms &amp; Conditions</title>
+      <link>/de/agb/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/de/agb/</guid>
+      <description>1. Definitions We collect certain identifying personal data when you sign up to our Service such as your name, email address, financial address (if different from email address), and telephone number.</description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>/de/karriere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de/karriere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>/de/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de/kontakt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>/de/prozess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/de/prozess/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

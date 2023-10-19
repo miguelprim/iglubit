@@ -1,5 +1,7 @@
 ######################## default configuration ####################
 url = "https://iglubit.com"
+languageCode = "en"
+defaultContentLanguage = "en"
 baseURL = "/"
 title = "IGLUBIT - Your Software Partner"
 theme = "andromeda-light"

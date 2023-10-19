@@ -1,0 +1,102 @@
+# main menu
+[[main]]
+#name = "Über uns"
+#url = "über/"
+weight = 1
+
+[[main]]
+#name = "Prozess"
+url = "prozess/"
+weight = 2
+
+
+[[main]]
+#name = "Blog"
+#url = "blog/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "AGB"
+hasChildren = true
+
+[[main]]
+#name = "Karriere"
+url = "karriere/"
+weight = 5
+
+
+
+
+  [[main]]
+  parent = "AGB"
+  name = "impressum"
+  url = "impressum/"
+  weight = 1
+
+ [[main]]
+  parent = "AGB"
+  name = "Datenschutz"
+  url = "datenschutz/"
+  weight = 1
+ 
+  [[main]]
+  parent = "AGB"
+  name = "Terms & Conditions"
+  url = "terms-and-conditions/"
+  weight = 7
+  
+
+[[main]]
+name = "Sprache"
+url = "https://iglubit.com/de/"
+weight = 7
+hasChildren = true
+
+[[main]]
+  parent = "Sprache"
+  name = "English"
+  url = "https://iglubit.com/"
+  weight = 2
+[[main]]
+  parent = "Sprache"
+  name = "Castellano"
+  url = "https://iglubit.com/es/"
+  weight = 1
+
+
+# footer menu
+[[footer]]
+#name = "Über"
+url = "über/"
+weight = 1
+
+[[footer]]
+#name = "Blog"
+url = "blog/"
+weight = 2
+
+[[footer]]
+#name = "Blog Details"
+url = "blog/post-1/"
+weight = 3
+
+[[footer]]
+#name = "Prozess"
+url = "prozess/"
+weight = 4
+
+[[footer]]
+name = "Impressum"
+url = "impressum/"
+weight = 5
+
+[[footer]]
+name = "Datenschutz"
+url = "datenschutz/"
+weight = 5
+
+[[footer]]
+name = "AGB"
+url = "agb/"
+weight = 7

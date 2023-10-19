@@ -1,0 +1,109 @@
+# main menu
+
+[[main]]
+#name = "Nosotros"
+url = "nosotros/"
+weight = 1
+
+[[main]]
+#name = "Proceso"
+url = "proceso/"
+weight = 2
+
+
+[[main]]
+#name = "Blog"
+#url = "blog/"
+weight = 3
+
+[[main]]
+#name = "Carrera"
+url = "carrera/"
+weight = 6
+
+
+
+[[main]]
+weight = 4
+name = "Términos"
+hasChildren = true
+
+  [[main]]
+  #parent = "Términos"
+  #name = "Blog Details"
+  #url = "blog/post-1/"
+  #weight = 1
+
+  [[main]]
+  parent = "Términos"
+  name = "Aviso legal"
+  url = "aviso/"
+  weight = 1
+
+ [[main]]
+  parent = "Términos"
+  name = "Privacidad"
+  url = "privacidad/"
+  weight = 1
+ 
+  [[main]]
+  parent = "Términos"
+  name = "Términos y condiciones"
+  url = "terminos/"
+  weight = 7
+  
+
+
+[[main]]
+name = "Idiomas"
+url = "https://iglubit.com/es/"
+weight = 7
+hasChildren = true
+
+[[main]]
+  parent = "Idiomas"
+  name = "English"
+  url = "https://iglubit.com/"
+  weight = 2
+[[main]]
+  parent = "Idiomas"
+  name = "Alemán"
+  url = "https://iglubit.com/de/"
+  weight = 1
+
+
+# footer menu
+[[footer]]
+#name = "Nosotros"
+url = "nosotros/"
+weight = 1
+
+[[footer]]
+#name = "Blog"
+url = "blog/"
+weight = 2
+
+[[footer]]
+#name = "Blog Details"
+url = "blog/post-1/"
+weight = 3
+
+[[footer]]
+#name = "Proceso"
+url = "proceso/"
+weight = 4
+
+[[footer]]
+name = "Aviso legal"
+url = "aviso/"
+weight = 5
+
+[[footer]]
+name = "Privacidad"
+url = "privacidad/"
+weight = 5
+
+[[footer]]
+name = "Terminos y condiciones"
+url = "terminos/"
+weight = 7

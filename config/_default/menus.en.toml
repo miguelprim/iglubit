@@ -1,0 +1,112 @@
+# main menu
+
+
+
+
+
+[[main]]
+#name = "About"
+url = "about/"
+weight = 1
+
+[[main]]
+#name = "Our Process"
+url = "process/"
+weight = 2
+
+
+[[main]]
+#name = "Blog"
+#url = "blog/"
+weight = 3
+
+[[main]]
+#name = "Career"
+url = "career/"
+weight = 6
+
+[[main]]
+name = "Lenguages"
+url = "/"
+weight = 7
+hasChildren = true
+
+[[main]]
+  parent = "Lenguages"
+  name = "Deutsch"
+  url = "de/"
+  weight = 1
+[[main]]
+  parent = "Lenguages"
+  name = "Castellano"
+  url = "es/"
+  weight = 1
+
+
+
+
+[[main]]
+weight = 4
+name = "Terms"
+hasChildren = true
+
+  [[main]]
+  #parent = "Terms"
+  #name = "Blog Details"
+  #url = "blog/post-1/"
+  #weight = 1
+
+  [[main]]
+  parent = "Terms"
+  name = "Imprint"
+  url = "imprint/"
+  weight = 1
+
+ [[main]]
+  parent = "Terms"
+  name = "Privacy Policy"
+  url = "privacy/"
+  weight = 1
+ 
+  [[main]]
+  parent = "Terms"
+  name = "Terms & Conditions"
+  url = "terms-and-conditions/"
+  weight = 7
+  
+
+# footer menu
+[[footer]]
+#name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+#name = "Blog"
+url = "blog/"
+weight = 2
+
+[[footer]]
+#name = "Blog Details"
+url = "blog/post-1/"
+weight = 3
+
+[[footer]]
+#name = "Our process"
+url = "process/"
+weight = 4
+
+[[footer]]
+name = "Imprint"
+url = "imprint/"
+weight = 5
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy/"
+weight = 5
+
+[[footer]]
+name = "Terms & Conditions"
+url = "terms-and-conditions/"
+weight = 7
