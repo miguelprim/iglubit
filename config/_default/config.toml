@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 url = "https://iglubit.com"
-languageCode = "en"
+languageCode = "de"
 defaultContentLanguage = "de"
 baseURL = "/"
 title = "IGLUBIT - Spanish Candidates for Germany"
