@@ -66,22 +66,22 @@ intro_video:
 
 # how_it_works
 how_it_works:   
-  enable: false
+  enable: true
   block:
-  - subtitle: "Software app development"
-    title: "Get your own Software App for your own Brand"
-    description: "We offer you a real full-service approach, which combines the most important factors in software development and maps them for you. Without expert know-how or high time expenditure from you needed."
-    image: "images/code.png"
+  - subtitle: "Spanische Potential für Ihre Firma"
+    title: "Vermittlung von spanischen Fachkräften"
+    description: "in den deutschen Arbeitsmarkt spezialisiert im Bereich Industrie, Consulting und Services."
+    image: "images/1.png"
 
-  - subtitle: "Software surroundings development"
-    title: "Achieve your solution in mind with us as a Box to plug in for your IT development"
-    description: "The right implementation of the suitable software technology, programming language and clouds structure...make the scability of your business higher as no other operation can do"
-    image: "images/play.png"
+  - subtitle: "Tolle Ergänzung für Ihres Teams"
+    title: "Langfristige Bindung der spanischen Mitarbeitert"
+    description: "Wir prüfen die Bereitschaft der Kandidaten, die kulturelle Distanzen zu überbrücken und die deutsche Arbeits- und Denkweise zu verstehen."
+    image: "images/2.png"
 
-  - subtitle: "Business Scale"
-    title: "Grow your Business to the max with our Business Intelligence as a Service"
-    description: "We can deliver Instant-Working-Experts for your team in order to identify clashes in the business intelligence used so far and avoid then the stock of your IT standards limitations due for instance to constant company growth"
-    image: "images/piramide.png"
+  - subtitle: "Skills"
+    title: "Technischen Knowhow"
+    description: "Wir prüfen, ob die Anforderungen der Stelle und des Unternehmens wirklich mit den Kenntnissen, Fähigkeiten und dem Potenzial des Bewerbers übereinstimmen."
+    image: "images/3.png"
 
 
 
