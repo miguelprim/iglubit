@@ -26,7 +26,7 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Vermittlung"
+  subtitle: "Spanische Fachkräfte für Deutschland einstellen"
   title: "Wir suchen den perfekte Kandidat aus Spanien für Ihre Projektteam"
   description: "Wir übernehmen die Screening und Kommunikation. Wir identifizieren die richtige Qualifikation und Charisma des Kandidaten für Ihre Projektteam"
   features_blocks:
@@ -69,16 +69,16 @@ how_it_works:
   enable: true
   block:
   - subtitle: "Spanische Potential für Ihre Firma"
-    title: "Vermittlung von spanischen Fachkräften"
+    title: "Vermittlung von spanischen Fachkräften. Personaldienstleister für spanische Fachkräfte"
     description: "in den deutschen Arbeitsmarkt spezialisiert im Bereich Industrie, Consulting und Services."
     image: "images/1.png"
 
-  - subtitle: "Tolle Ergänzung für Ihres Teams"
+  - subtitle: "Spanische Ingenieure, Fachkräfte & Arbeitskräfte finden. Tolle Ergänzung für Ihres Teams"
     title: "Langfristige Bindung der spanischen Mitarbeitert"
     description: "Wir prüfen die Bereitschaft der Kandidaten, die kulturelle Distanzen zu überbrücken und die deutsche Arbeits- und Denkweise zu verstehen."
     image: "images/2.png"
 
-  - subtitle: "Skills"
+  - subtitle: "Fachkräfte aus Spanien. Personalsuche in Spanien"
     title: "Technischen Knowhow"
     description: "Wir prüfen, ob die Anforderungen der Stelle und des Unternehmens wirklich mit den Kenntnissen, Fähigkeiten und dem Potenzial des Bewerbers übereinstimmen."
     image: "images/3.png"

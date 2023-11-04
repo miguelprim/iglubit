@@ -3,7 +3,7 @@ url = "https://iglubit.com"
 languageCode = "de"
 defaultContentLanguage = "de"
 baseURL = "/"
-title = "IGLUBIT - Spanish Candidates for Germany"
+title = "IGLUBIT - Spanische Fachkräfte für Deutschland"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"
