@@ -13,7 +13,7 @@ description: "Imprint"
 
 * Willebrandstrasse, 22767, Hamburg, Germany
 * Las Cabezas de San Juan, 41701, Dos Hermanas, Sevilla, Spain
-* Tel.: +49 1575 496 0008
+* Tel.: +49 
 * info@iglubit.com
 * job@iglubit.com
 * www.iglubit.com
