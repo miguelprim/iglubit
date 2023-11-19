@@ -38,8 +38,8 @@ hasChildren = true
   weight = 1
 [[main]]
   parent = "Lenguages"
-  name = "https://iglubit.com/es"
-  url = "es/"
+  name = "Spanish"
+  url = "https://iglubit.com/es/"
   weight = 1
 
 
