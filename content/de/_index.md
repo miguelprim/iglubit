@@ -11,8 +11,8 @@ banner:
 
 # brands
 
-brands_carousel:
-  enable: true
+#brands_carousel:
+  enable: false
   brand_images:
   - "images/brands/triana.png"
   - "images/brands/mabogados.png"
