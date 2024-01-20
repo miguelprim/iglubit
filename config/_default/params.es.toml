@@ -34,7 +34,7 @@ mainSections= ["blog"]
 [contact_info]
 address = "Willebrandstraße, 22767, HAMBURG, GERMANY"
 phone = ["+49 1573 488 3122", "", ""]
-email = ["info@iglubit.com", "", ""]
+email = ["info.iglubit@gmail.com", "", ""]
 
 # imaging processing
 [imaging]
@@ -64,8 +64,8 @@ button = "I Accept"
 enable = true
 title = "Contacte ahora con IGLUBIT"
 content = "Describanos su proyecto"
-button = "info@iglubit.com"
-button_link = "mailto:info@iglubit.com"
+button = "info.iglubit@gmail.com"
+button_link = "mailto:info.iglubit@gmail.com"
 
 ############################# social site ########################
 
