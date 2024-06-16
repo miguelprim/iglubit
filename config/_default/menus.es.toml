@@ -17,7 +17,7 @@ weight = 2
 weight = 3
 
 [[main]]
-#name = "Carrera"
+name = "Carrera"
 url = "carrera/"
 weight = 6
 

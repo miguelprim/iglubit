@@ -1,5 +1,5 @@
 ---
-title : "Career"
+title : "Empleo"
 layout: "career"
 description: "Do what you enjoy, invest for your future and reap the benefits of working with the worlds first advancement company that puts people first."
 
@@ -7,67 +7,46 @@ description: "Do what you enjoy, invest for your future and reap the benefits of
 # features
 features:
   enable: true
-  subtitle: "Career"
-  title: "Enjoy your career developing cool apps"
-  description: "Through your passion in tech and software development, you can help us to bring nice ideas, into the real world."
+  subtitle: "Carrera"
+  title: "Disfruta trabajando en Alemania"
+  description: "Desarrolla tu pasión desenvolviendo tus habilidades en un proyecto dentro del marco industrial en Alemania"
 
 ########### funfacts ##########
 funfacts:
   enable : true
-  title : "Goodies"
+  title : "Ventajas"
   
   funfacts_item:
-  - name : "Flexible hours"
+  - name : "Horas flexibles"
     icon : ""
-    content : "Tight schedule as you more comfortable feel, with effective communication you can work remotely"
+    content : "Decide cuando quieres entrar y salir del trabajo. Incluso se puede adelantar trabajo del lunes al jueves para dejar el viernes más tranquilo y empezar antes el fin de semana. Al gusto del consumidor"
     
-  - name : "Free Caffe & Fruits"
+  - name : "35 horas semanales"
     icon : ""
-    content : "We love coffe & fruits in order to maintain us focused but also healthy"
+    content : "las antiguas 40 horas son parte de la historia en la mayoría de los casos"
     
-  - name : "Recreation & Inspiration"
+  - name : "Aprende Alemán"
     icon : ""
-    content : "Support to Workshops and further trainings"
+    content : "Al estar interconexiones con personas de Alemania y de otros paises, aprenderás alemán de una manera natural y auténtica mientras trabajas (aparte del inglés)"
     
-  - name : "Fridays Relax"
+  - name : "Home Office"
     icon : ""
-    content : "If you achieve the result in 4 days, why not to relax on friday?"
+    content : "en la mayoria de los casos se ofrece la posibilidad de realizar 2 dias de trabajo en remoto desde casa"
     
 ########### Career ############
 career:
   enable : true
   title : "Job Opening"
   job_item:
-  - name : "Android Developer"
-    location : "Remote"
+  - name : "Ingeniero aeronautico"
+    location : "Hamburg"
     form_action : "#"
-    about : "You will work on creative developments of new product ideas - and applications in compliance with global manufacturing guidelines in consultation with individual departmental requirements. You continuously work on identifying new market opportunities and protecting market opportunities within the intellectual property framework. Your responsibilities will include developing software and system specifications as well as improving hardware and software development processes"
-
+    about : "Ingeniero industrial o aeronautico "
     experiences:
-    - "3+ years Development	experience in a startup environment"
-    - "Strong knowledge of iOS, Android & Web Platforms"
-    - "Dynamic presentation and communication skills"
-    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
-    - Very good knowledge of C/C++ or C# or Java
-    - "Excellent knowledge of multithreaded programming and application-level Internet protocols: HTTP, FTP, TELNET, SMTP, SSH"
-
-
+    - "+2 años de experiencia laboral"
+    - "Desarrollo de actividades conforme a Proyecto en el marco del project management para aspectos en torno al producto industrial"
+    - "Gestión de procesos e información estableciendo una comunicación proactiva entre los diferentes departamentos involucrados"
+    - "Análisis de datos y presentación de propuestas durante el seguimiento del proyecto"
     
-  - name : "DevOps Engineer"
-    location : "Remote"
-    form_action : "#"
-    about : "As part of our IT DevOps team in the area of contract lifecycle, you are involved in shaping agile software development and hold an important position in our team.
-The maintenance and further development of the systems are a daily routine for you.
-In addition to technical quality, you also pay attention to compliance and security.
-In the team, you are the knowledge anchor for all architecture issues.
-You coordinate internal process partners and manage external development teams within the framework of IT implementation.
-"
-    experiences:
-    - "3+ years Development	experience in a startup environment"
-    - "Strong knowledge of iOS, Android & Web Platforms"
-    - "Professional experience in IT project management and software engineering or good knowledge in the area of maintenance responsibility.
-Sound knowledge of modern IT architectures, operating systems and middleware (e.g. Apache, Payara, Linux), as well as knowledge of private/public cloud, Java, Oracle, mySQL and HTML5 technologies."
-    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
-
 
 ---

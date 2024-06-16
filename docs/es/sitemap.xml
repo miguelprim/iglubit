@@ -28,8 +28,6 @@
                 href="/es/"
                 />
   </url><url>
-    <loc>/es/carrera/</loc>
-  </url><url>
     <loc>/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,6 +46,8 @@
                 />
   </url><url>
     <loc>/es/contacto/</loc>
+  </url><url>
+    <loc>/es/carrera/</loc>
   </url><url>
     <loc>/es/tags/</loc>
     <xhtml:link
