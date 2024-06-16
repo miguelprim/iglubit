@@ -38,10 +38,10 @@ career:
   enable : true
   title : "Job Opening"
   job_item:
-  - name : "Android Developer"
-    location : "Remote"
+  - name : "Industrial or aeronautical engineer"
+    location : "Hamburg / Munich"
     form_action : "#"
-    about : "You will work on creative developments of new product ideas - and applications in compliance with global manufacturing guidelines in consultation with individual departmental requirements. You continuously work on identifying new market opportunities and protecting market opportunities within the intellectual property framework. Your responsibilities will include developing software and system specifications as well as improving hardware and software development processes"
+    about : "Industrial or aeronautical engineer"
 
     experiences:
     - "3+ years Development	experience in a startup environment"

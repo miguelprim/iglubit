@@ -38,15 +38,14 @@ career:
   enable : true
   title : "Job Opening"
   job_item:
-  - name : "Ingeniero aeronautico"
-    location : "Hamburg"
+  - name : "Aeronautical engineer"
+    location : "Hamburg / Munich"
     form_action : "#"
-    about : "Ingeniero industrial o aeronautico "
+    about : "Industrial or aeronautical engineer"
     experiences:
-    - "+2 años de experiencia laboral"
-    - "Desarrollo de actividades conforme a Proyecto en el marco del project management para aspectos en torno al producto industrial"
-    - "Gestión de procesos e información estableciendo una comunicación proactiva entre los diferentes departamentos involucrados"
-    - "Análisis de datos y presentación de propuestas durante el seguimiento del proyecto"
-    
+    - "+2 years of work experience"
+    - "Development of activities according to Project in the framework of project management for aspects around the industrial product."
+    - "Process and information management establishing a proactive communication between the different departments involved."
+    - "Data analysis and presentation of proposals during project follow up"
 
 ---
