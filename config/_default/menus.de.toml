@@ -21,7 +21,7 @@ name = "AGB"
 hasChildren = true
 
 [[main]]
-#name = "Karriere"
+name = "Karriere"
 url = "karriere/"
 weight = 5
 
