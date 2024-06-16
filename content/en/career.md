@@ -8,8 +8,8 @@ description: "Do what you enjoy, invest for your future and reap the benefits of
 features:
   enable: true
   subtitle: "Career"
-  title: "Enjoy your career developing cool apps"
-  description: "Through your passion in tech and software development, you can help us to bring nice ideas, into the real world."
+  title: "Enjoy your career developing your skills in Germany"
+  description: "Develop your passion by developing your skills in an industrial project in Germany"
 
 ########### funfacts ##########
 funfacts:
@@ -19,19 +19,19 @@ funfacts:
   funfacts_item:
   - name : "Flexible hours"
     icon : ""
-    content : "Tight schedule as you more comfortable feel, with effective communication you can work remotely"
+    content : "Decide when you want to come and go from work. You can even bring forward work from Monday to Thursday to leave Friday more relaxed and start the weekend earlier. It's up to you"
     
-  - name : "Free Caffe & Fruits"
+  - name : "35 hours per week"
     icon : ""
-    content : "We love coffe & fruits in order to maintain us focused but also healthy"
+    content : "the old 40 hours are part of history in most cases"
     
-  - name : "Recreation & Inspiration"
+  - name : "Learn German"
     icon : ""
-    content : "Support to Workshops and further trainings"
+    content : "By networking with people from Germany and other countries, you will learn German in a natural and authentic way while working (apart from English)"
     
-  - name : "Fridays Relax"
+  - name : "Home Office"
     icon : ""
-    content : "If you achieve the result in 4 days, why not to relax on friday?"
+    content : "in most cases you are offered the possibility to do 2 days of remote work from home"
     
 ########### Career ############
 career:
@@ -52,22 +52,6 @@ career:
     - "Excellent knowledge of multithreaded programming and application-level Internet protocols: HTTP, FTP, TELNET, SMTP, SSH"
 
 
-    
-  - name : "DevOps Engineer"
-    location : "Remote"
-    form_action : "#"
-    about : "As part of our IT DevOps team in the area of contract lifecycle, you are involved in shaping agile software development and hold an important position in our team.
-The maintenance and further development of the systems are a daily routine for you.
-In addition to technical quality, you also pay attention to compliance and security.
-In the team, you are the knowledge anchor for all architecture issues.
-You coordinate internal process partners and manage external development teams within the framework of IT implementation.
-"
-    experiences:
-    - "3+ years Development	experience in a startup environment"
-    - "Strong knowledge of iOS, Android & Web Platforms"
-    - "Professional experience in IT project management and software engineering or good knowledge in the area of maintenance responsibility.
-Sound knowledge of modern IT architectures, operating systems and middleware (e.g. Apache, Payara, Linux), as well as knowledge of private/public cloud, Java, Oracle, mySQL and HTML5 technologies."
-    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
 
 
 ---

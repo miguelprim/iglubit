@@ -7,9 +7,9 @@ description: "Do what you enjoy, invest for your future and reap the benefits of
 # features
 features:
   enable: true
-  subtitle: "Career"
-  title: "Enjoy your career developing cool apps"
-  description: "Through your passion in tech and software development, you can help us to bring nice ideas, into the real world."
+  subtitle: "Karriere"
+  title: "Viel Spaß beim Arbeiten in Deutschland"
+  description: "Entwickeln Sie Ihre Leidenschaft, indem Sie Ihre Fähigkeiten in einem Industrieprojekt in Deutschland entwickeln"
 
 ########### funfacts ##########
 funfacts:
@@ -17,21 +17,21 @@ funfacts:
   title : "Goodies"
   
   funfacts_item:
-  - name : "Flexible hours"
+  - name : "Flexible Arbeitszeit"
     icon : ""
-    content : "Tight schedule as you more comfortable feel, with effective communication you can work remotely"
+    content : "Entscheiden Sie selbst, wann Sie zur Arbeit kommen und gehen möchten. Sie können sogar die Arbeit von Montag auf Donnerstag vorverlegen, um einen ruhigeren Freitag und einen früheren Start ins"
     
-  - name : "Free Caffe & Fruits"
+  - name : "35 Stunden pro Woche"
     icon : ""
-    content : "We love coffe & fruits in order to maintain us focused but also healthy"
+    content : "Die alten 40 Stunden gehören in den meisten Fällen der Vergangenheit an"
     
-  - name : "Recreation & Inspiration"
+  - name : "Deutsch lernen"
     icon : ""
-    content : "Support to Workshops and further trainings"
+    content : "Indem Sie sich mit Menschen aus Deutschland und anderen Ländern vernetzen, lernen Sie neben der Arbeit auf natürliche und authentische Weise Deutsch (neben Englisch)"
     
-  - name : "Fridays Relax"
+  - name : "Home Office"
     icon : ""
-    content : "If you achieve the result in 4 days, why not to relax on friday?"
+    content : "In den meisten Fällen wird Ihnen die Möglichkeit geboten, 2 Tage von zu Hause aus zu arbeiten"
     
 ########### Career ############
 career:
@@ -50,6 +50,7 @@ career:
     - Datenanalyse und Präsentation von Vorschlägen während der Projektüberwachung".
 
 
-    
+ 
+
 
 ---
